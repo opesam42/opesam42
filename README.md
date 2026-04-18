@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gbenga Opeyemi</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Backend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [gbenga.koyeb.app](https://gbenga.koyeb.app)  
 - 📝 I regularly write articles on [Medium](https://medium.com/@opesam42)
